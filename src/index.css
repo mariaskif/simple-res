@@ -1,0 +1,74 @@
+.color-body{
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+.font{
+  font-family: 'Marhey', cursive;
+}
+.title{
+  color: #224f61;
+  font-family:'Marhey', cursive; 
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+.underline{
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border:2px solid #b45b35
+
+}
+
+.btn{
+color: #8c8c8c;
+font-family: 'Marhey', cursive;
+font-size: 18px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 24px;
+border: #b45b35 solid 1px;
+
+}
+.btn:hover{
+  color: white;
+font-family: 'Marhey', cursive;
+font-size: 18px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 24px;
+}
+.img-item{
+  height: 180px;
+  width: 180px;
+  border-radius: 5px;
+}
+.item-description{
+  color: #8c8c8c;
+  font-family:'Marhey', cursive; 
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.item-title{
+  color: black;
+  font-family:'Marhey', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom:40px ;
+}
+.brand-color{
+  color: #b45b35;}
+.cat-style{
+border: #b45b35 1px solid;
+}
+.btn-search{
+  background-color: #b45b35;
+}
+.content{
+  display: flex;
+  justify-content:space-between ;
+}
